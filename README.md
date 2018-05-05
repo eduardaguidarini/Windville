@@ -11,4 +11,4 @@ Team members:
 
 > Filipe Ghisi @ghisihoward
 
-> Gabriel Nied @gabriel.nied.9
+> Gabriel Nied @GabrielNied
